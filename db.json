@@ -1,0 +1,76 @@
+{
+    "users": [
+    {
+      "id": 1,
+      "nama": "Irgi",
+      "alamat": "Cemorokandang",
+      "umur": "17",
+    },
+    {
+      "id": 2,
+      "nama": "Dafa Lolicon",
+      "alamat": "Turen",
+      "umur": "17",
+    },
+    {
+      "id": 3,
+      "nama": "Bagus",
+      "alamat": "Sawojajar",
+      "umur": "16",
+    },
+    {
+      "id": 4,
+      "nama": "Muktar",
+      "alamat": "Lesanpuro",
+      "umur": "17",
+    },
+    {
+      "id": 5,
+      "nama": "Miqdad",
+      "alamat": "Buring",
+      "umur": "17",
+    },
+    {
+      "id": 6,
+      "nama": "Eka",
+      "alamat": "Sawojajar",
+      "umur": "16",
+    },
+    {
+      "id": 7,
+      "nama": "Navis",
+      "alamat": "Lesanpuro",
+      "umur": "17",
+    },
+    {
+      "id": 8,
+      "nama": "Cendy",
+      "alamat": "Bandulan",
+      "umur": "19",
+    },
+    {
+      "id": 9,
+      "nama": "Alvin",
+      "alamat": "Madyopuro",
+      "umur": "16",
+    },
+    {
+      "id": 10,
+      "nama": "Bella",
+      "alamat": "Sawojajar",
+      "umur": "17",
+    },
+    {
+      "id": 11,
+      "nama": "Rosa",
+      "alamat": "Bonangan",
+      "umur": "17",
+    },
+    {
+      "id": 12,
+      "nama": "Risma",
+      "alamat": "Cemorokandang",
+      "umur": "16",
+    },
+  ],
+}
